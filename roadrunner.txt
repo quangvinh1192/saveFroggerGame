@@ -1,0 +1,5 @@
+road 2 0.20
+road 1 0.25
+water 4 0.35
+road 1 0.35
+road 2 0.20
